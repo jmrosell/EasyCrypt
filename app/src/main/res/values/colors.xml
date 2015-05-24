@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gris100">#F5F5F5</color>
+    <color name="gris200">#EEEEEE</color>
+    <color name="gris300">#E0E0E0</color>
+    <color name="gris400">#BDBDBD</color>
+    <color name="gris500">#9E9E9E</color>
+    <color name="gris600">#757575</color>
+    <color name="gris700">#616161</color>
+    <color name="gris800">#424242</color>
+    <color name="gris900">#212121</color>
+
+    <color name="DEEP_ORANGE_100">#FFCCBC</color>
+    <color name="DEEP_ORANGE_200">#FFAB91</color>
+    <color name="DEEP_ORANGE_300">#FF8A65</color>
+    <color name="DEEP_ORANGE_400">#FF7043</color>
+    <color name="DEEP_ORANGE_500">#FF5722</color>
+    <color name="DEEP_ORANGE_600">#F4511E</color>
+    <color name="DEEP_ORANGE_700">#E64A19</color>
+    <color name="DEEP_ORANGE_800">#D84315</color>
+    <color name="DEEP_ORANGE_900">#BF360C</color>
+
+    <color name="INDIGO_100">#C5CAE9</color>
+    <color name="INDIGO_200">#9FA8DA</color>
+    <color name="INDIGO_300">#7986CB</color>
+    <color name="INDIGO_400">#5C6BC0</color>
+    <color name="INDIGO_500">#3F51B5</color>
+    <color name="INDIGO_600">#3949AB</color>
+    <color name="INDIGO_700">#303F9F</color>
+
+    <color name="blanco">#ffffff</color>
+    <color name="negro">#000000</color>
+
+
+    <color name="toolbar_background">@color/DEEP_ORANGE_500</color>
+</resources>

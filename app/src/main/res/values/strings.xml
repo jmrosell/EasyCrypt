@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EasyCrypt</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="error_texto_encriptar">Debe introducir un texto para encriptar</string>
+    <string name="error_pass_encriptar">Debe introducir una contraseña</string>
+
+    <string name="copy_porta">Texto copiado</string>
+    <string name="no_copy">Nada que copiar</string>
+</resources>
